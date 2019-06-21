@@ -20,7 +20,7 @@
 }
 
 .carousel.carousel-full-nagivation .right {
-  cursor: url("../../img/arrow-right.png"), url("../../img/arrow-right.cur"), default !important;
+  cursor: url("..img/arrow-right.png"), url("../img/arrow-right.cur"), default !important;
 }
 
 .card {
